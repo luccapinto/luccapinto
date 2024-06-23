@@ -33,17 +33,6 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 ![Lucca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccapinto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=radical)
 
-## 📚 Projetos
-
-### [Otimização de Notebooks de Ingestão](https://github.com/luccapinto/optimizacao-notebooks)
-Projeto para otimização de notebooks de ingestão, reduzindo o tempo de execução em 25x.
-- **Tech Stack:** Python, Pandas, PySpark, SQL
-- **Features:** Automação de processos, Padronização de tratamento de dados
-
-### [Dashboard de Recrutamento](https://github.com/luccapinto/dashboard-recrutamento)
-Gestão de dashboards para o principal dashboard de recrutamento da XP Inc.
-- **Tech Stack:** Power BI, SQL
-- **Features:** KPIs, Relacionamentos entre tabelas, Visualizações interativas
 
 ## 📜 Certificações
 
