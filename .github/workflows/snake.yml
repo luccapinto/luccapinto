@@ -36,7 +36,8 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.gif
           git commit -m "Generate snake animation"
-          git push https://${{ secrets.ACTIONS_DEPLOY_KEY }}@github.com/luccapinto/luccapinto.git HEAD:output --force
+          git push https://"${{ secrets.ACTIONS_DEPLOY_KEY }}"@github.com/luccapinto/luccapinto.git HEAD:output --force
+
         env:
           ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
