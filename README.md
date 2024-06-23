@@ -28,11 +28,7 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=radical)
-<div align="center">
-  
-  ![Snake animation](https://github.com/luccapinto/luccapinto/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 ## 📫 Como me encontrar
 
 - Email: [luccapinto@usp.br](mailto:luccapinto@usp.br)
