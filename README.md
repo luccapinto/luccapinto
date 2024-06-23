@@ -2,7 +2,7 @@
 
 ## 👋 Sobre Mim
 
-Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com experiência em transformar dados em insights valiosos para a tomada de decisões. Atualmente, sou estagiário em People Analytics na XP Inc. e estudante de Sistemas de Informação na USP. Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e aplicar novos conhecimentos.
+Olá! Eu sou Lucca Pinto, Analista de Dados e de Negócio com experiência em transformar dados em insights valiosos para a tomada de decisões. Atualmente, sou estagiário em People Analytics na XP Inc. e estudante de Sistemas de Informação na USP. Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e aplicar novos conhecimentos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccapinto)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luccapinto@usp.br)
