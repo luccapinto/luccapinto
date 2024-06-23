@@ -31,14 +31,6 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=radical)
 
-## 📜 Certificações
-
-- Power BI Completo - do básico ao avançado
-- Academy Accreditation - Databricks Fundamentals
-- Microsoft AI Builder Challenge
-- Cloud Computing Foundations - Duke University
-- Inspiring and Motivating Individuals - University of Michigan
-
 ## 📫 Como me encontrar
 
 - Email: [luccapinto@usp.br](mailto:luccapinto@usp.br)
