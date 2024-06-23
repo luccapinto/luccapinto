@@ -1,8 +1,6 @@
 # Lucca Pinto - Data Analyst & Business Analyst
 
 
-<img src="cidaderoxa.gif" alt="Capa" width="100%" />
-
 ## 👋 Sobre Mim
 
 Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com experiência em transformar dados em insights valiosos para a tomada de decisões. Atualmente, sou estagiário em People Analytics na XP Inc. e estudante de Sistemas de Informação na USP. Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e aplicar novos conhecimentos.
