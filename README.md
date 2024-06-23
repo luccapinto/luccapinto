@@ -13,7 +13,6 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 
 ### Análise de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=apache-spark&logoColor=white)
@@ -30,9 +29,7 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 
 ## 📈 GitHub Stats
 
-![Lucca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luccapinto&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=radical)
-
 
 ## 📜 Certificações
 
