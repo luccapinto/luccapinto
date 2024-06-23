@@ -17,8 +17,6 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-3776AB?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
 
 ### Visualização de Dados
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
