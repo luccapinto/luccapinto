@@ -26,8 +26,4 @@ Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 20
 
 ---
 
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=luccapinto&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
+![luccapinto's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
