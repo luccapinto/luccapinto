@@ -1,6 +1,5 @@
 # Lucca Pinto - Data Analyst & Business Analyst
 
-
 ## 👋 Sobre Mim
 
 Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com experiência em transformar dados em insights valiosos para a tomada de decisões. Atualmente, sou estagiário em People Analytics na XP Inc. e estudante de Sistemas de Informação na USP. Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e aplicar novos conhecimentos.
@@ -29,7 +28,11 @@ Olá! Eu sou Lucca Pinto, um Analista de Dados e Analista de Negócios com exper
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=radical)
-
+<div align="center">
+  
+  ![Snake animation](https://github.com/luccapinto/luccapinto/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 ## 📫 Como me encontrar
 
 - Email: [luccapinto@usp.br](mailto:luccapinto@usp.br)
