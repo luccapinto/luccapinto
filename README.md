@@ -1,12 +1,14 @@
+<p align="center">
+  <img src="cidaderoxa.gif" width="100%" alt="Profile Banner">
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=25&duration=4000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Lucca+Pinto!;A+Data+Analyst+%26+Business+Analyst;Transforming+data+into+insights...;Always+learning%2C+always+innovating." alt="Lucca Pinto - Animated Title" />
 </div>
 
 <h1 align="center">Lucca Pinto - Data Analyst & Business Analyst</h1>
 
-<p align="center">
-  <img src="stylish_divider.svg" alt="Section Divider" width="60%" />
-</p>
+---
 
 <h2>✨ Sobre Mim</h2>
 Olá! Eu sou Lucca Pinto, Analista de Dados e de Negócio com experiência em transformar dados em insights valiosos para a tomada de decisões. Atualmente, sou estagiário em People Analytics na XP Inc. e estudante de Sistemas de Informação na USP. Apaixonado por tecnologia e inovação, estou sempre em busca de aprender e aplicar novos conhecimentos.
@@ -21,9 +23,7 @@ Olá! Eu sou Lucca Pinto, Analista de Dados e de Negócio com experiência em tr
   <img src="devroxo.gif" alt="Developer Animation" width="300"/>
 </div>
 
-<p align="center">
-  <img src="stylish_divider.svg" alt="Section Divider" width="60%" />
-</p>
+---
 
 <h2>🛠️ Tech Stack</h2>
 <div align="center">
@@ -54,20 +54,25 @@ Olá! Eu sou Lucca Pinto, Analista de Dados e de Negócio com experiência em tr
   </p>
 </div>
 
-<p align="center">
-  <img src="stylish_divider.svg" alt="Section Divider" width="60%" />
-</p>
+---
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=radical" alt="Top Langs"/>
   <br>
   <img src="https://raw.githubusercontent.com/luccapinto/luccapinto/main/metrics.svg" alt="GitHub Metrics"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=luccapinto&theme=radical&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Statistics"/>
 </div>
 
-<p align="center">
-  <img src="stylish_divider.svg" alt="Section Divider" width="60%" />
-</p>
+---
+
+<h2>📈 Contribuições Recentes</h2>
+<div align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/luccapinto?chart=3dbar&animation=wave&theme=chartreuse-dark" alt="Lucca Pinto - GitHub Contributions"/>
+</div>
+
+---
 
 <h2>📫 Como me encontrar</h2>
 <div align="center">
@@ -76,11 +81,10 @@ Olá! Eu sou Lucca Pinto, Analista de Dados e de Negócio com experiência em tr
   <p>GitHub: <a href="https://github.com/luccapinto">luccapinto</a></p>
 </div>
 
-<p align="center">
-  <img src="stylish_divider.svg" alt="Section Divider" width="60%" />
-</p>
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/luccapinto/luccapinto/output/dist/github-contribution-grid-snake.svg" alt="Snake Game Contribuições"/>
+</div>
 
 <p align="center">⭐️ De <a href="https://github.com/luccapinto">Lucca Pinto</a></p>
-<div align="center">
-  <img src="cidaderoxa.gif" alt="Cityscape Animation" width="500"/>
-</div>
