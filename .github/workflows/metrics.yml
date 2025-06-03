@@ -1,0 +1,77 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on main
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to write results back to the repository
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }} # METRICS_TOKEN is a personal access token stored in repository secrets
+          # The user for whom metrics are generated, defaults to the repository owner
+          user: luccapinto
+          # Output filename
+          filename: metrics.svg
+          # Comma-separated list of plugins to use
+          # Add more plugins based on desired metrics, e.g., languages, notable, etc.
+          # Check lowlighter/metrics documentation for all available plugins and options
+          plugins_errors_fatal: true # Fail workflow if any plugin encounters an error
+          # Base content (used by many plugins, often not explicitly specified but good to be aware of)
+          base: header, activity, community, repositories, metadata
+          # Example plugins (remove or configure as needed)
+          # plugin_isocalendar: yes
+          # plugin_languages: yes
+          # plugin_habits: yes
+          # plugin_people: yes
+          # plugin_notable: yes
+          # Add more configuration options as needed
+          # config_timezone: America/Sao_Paulo # Example: Set timezone
+          # config_output: svg # Default is svg, can also be json, pdf, markdown
+          # config_order: base.header, base.activity, base.community, base.repositories, base.metadata, isocalendar, languages # Example of ordering sections
+          # Add any specific plugin configurations here, e.g.:
+          # plugin_languages_limit: 8
+          # plugin_isocalendar_duration: half-year
+          # plugin_notable_repositories: true
+          # plugin_people_types: followers, following
+          # plugin_people_limit: 24
+          # For the initial setup, keeping it simple with defaults and the specified filename.
+          # The user can customize plugins and options later.
+          # Ensuring the output is metrics.svg as used in README.md
+          # The default set of plugins will be used if not specified.
+          # Adding a few common plugins as examples, commented out for now.
+          # User can enable them by uncommenting and configuring.
+          # plugin_isocalendar: yes
+          # plugin_languages: yes
+          # plugin_achievements: yes
+          # plugin_lines: yes
+          # plugin_traffic: yes
+          # plugin_people: yes
+          # plugin_stargazers: yes
+          # plugin_followup: yes
+          # plugin_discussions: yes
+          # plugin_notable: yes
+          # plugin_code: yes # Random code snippet
+          # plugin_habits: yes # Coding habits
+          # plugin_skyline: yes # GitHub Skyline
+          # plugin_stackoverflow: yes # Stack Overflow stats (requires stackoverflow_id)
+          # plugin_wakatime: yes # WakaTime stats (requires wakatime_token and wakatime_user)
+          # plugin_posts: yes # Recent blog posts (requires posts_source, posts_limit)
+          # plugin_rss: yes # RSS feed (requires rss_url, rss_limit)
+          # plugin_music: yes # Music activity (requires music_provider, music_token, music_user_id)
+
+          # To exactly match the image previously manually added:
+          # The image was "https://raw.githubusercontent.com/luccapinto/luccapinto/main/metrics.svg"
+          # This implies it was generated with a specific set of plugins.
+          # It's hard to know the exact plugins without seeing the old generation config.
+          # For now, a default set of metrics will be generated.
+          # The user "luccapinto" must ensure their METRICS_TOKEN has the necessary scopes for the plugins they enable.
+          # For a basic setup, a token with no scopes can work for public data, but some plugins need more.
+          # The action will commit "metrics.svg" to the "luccapinto/luccapinto" repository.
+```
