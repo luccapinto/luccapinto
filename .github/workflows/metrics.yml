@@ -25,46 +25,21 @@ jobs:
           plugins_errors_fatal: true # Fail workflow if any plugin encounters an error
           # Base content (used by many plugins, often not explicitly specified but good to be aware of)
           base: header, activity, community, repositories, metadata
-          # Example plugins (remove or configure as needed)
-          # plugin_isocalendar: yes
-          # plugin_languages: yes
-          # plugin_habits: yes
-          # plugin_people: yes
-          # plugin_notable: yes
-          # Add more configuration options as needed
-          # config_timezone: America/Sao_Paulo # Example: Set timezone
-          # config_output: svg # Default is svg, can also be json, pdf, markdown
-          # config_order: base.header, base.activity, base.community, base.repositories, base.metadata, isocalendar, languages # Example of ordering sections
-          # Add any specific plugin configurations here, e.g.:
-          # plugin_languages_limit: 8
-          # plugin_isocalendar_duration: half-year
-          # plugin_notable_repositories: true
-          # plugin_people_types: followers, following
-          # plugin_people_limit: 24
-          # For the initial setup, keeping it simple with defaults and the specified filename.
-          # The user can customize plugins and options later.
-          # Ensuring the output is metrics.svg as used in README.md
-          # The default set of plugins will be used if not specified.
-          # Adding a few common plugins as examples, commented out for now.
-          # User can enable them by uncommenting and configuring.
-          # plugin_isocalendar: yes
-          # plugin_languages: yes
-          # plugin_achievements: yes
-          # plugin_lines: yes
-          # plugin_traffic: yes
-          # plugin_people: yes
-          # plugin_stargazers: yes
-          # plugin_followup: yes
-          # plugin_discussions: yes
-          # plugin_notable: yes
-          # plugin_code: yes # Random code snippet
-          # plugin_habits: yes # Coding habits
-          # plugin_skyline: yes # GitHub Skyline
-          # plugin_stackoverflow: yes # Stack Overflow stats (requires stackoverflow_id)
-          # plugin_wakatime: yes # WakaTime stats (requires wakatime_token and wakatime_user)
-          # plugin_posts: yes # Recent blog posts (requires posts_source, posts_limit)
-          # plugin_rss: yes # RSS feed (requires rss_url, rss_limit)
-          # plugin_music: yes # Music activity (requires music_provider, music_token, music_user_id)
+          config_timezone: America/Sao_Paulo
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
 
           # To exactly match the image previously manually added:
           # The image was "https://raw.githubusercontent.com/luccapinto/luccapinto/main/metrics.svg"
