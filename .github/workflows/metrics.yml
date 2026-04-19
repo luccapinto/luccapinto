@@ -49,4 +49,3 @@ jobs:
           # The user "luccapinto" must ensure their METRICS_TOKEN has the necessary scopes for the plugins they enable.
           # For a basic setup, a token with no scopes can work for public data, but some plugins need more.
           # The action will commit "metrics.svg" to the "luccapinto/luccapinto" repository.
-```
