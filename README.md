@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./vibecoding.gif" width="100%" alt="Banner" />
-</div>
-
-<div align="center">
   <h1>Lucca Pinto 👋</h1>
   <p align="center">
     <b>Analista de Dados e Negócio Pleno @ XP Inc. | Bacharel em Sistemas de Informação - USP</b><br/>
