@@ -28,12 +28,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccapinto&layout=compact&theme=tokyonight&hide=html,css&card_width=600" alt="Top Langs" />
-</p>
-
----
 
 ### 🐍 Contribuições
 <div align="center">
