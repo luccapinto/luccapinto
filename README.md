@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Lucca Pinto 👋</h1>
   <p align="center">
-    <b>Mid-Level Data & Business Analyst @ XP Inc. | B.Sc. in Information Systems — USP</b><br/>
+    <b>Data & AI @ XP Inc. | B.Sc. in Information Systems — USP</b><br/>
     <i>"Language- and tool-agnostic — my job is solving problems."</i>
   </p>
 
