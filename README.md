@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Lucca Pinto 👋</h1>
   <p align="center">
-    <b>Analista de Dados e Negócio Pleno @ XP Inc. | Bacharel em Sistemas de Informação - USP</b><br/>
-    <i>"Agnóstico a linguagens e ferramentas, meu papel é resolver problemas."</i>
+    <b>Mid-Level Data & Business Analyst @ XP Inc. | B.Sc. in Information Systems — USP</b><br/>
+    <i>"Language- and tool-agnostic — my job is solving problems."</i>
   </p>
 
   <p align="center">
@@ -19,7 +19,7 @@
 
 ### 🛠️ Tech Stack
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
 | **AI Agents & LLMs** | ![Antigravity](https://img.shields.io/badge/-Antigravity-black?style=flat-square&logo=antigravity&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-white?style=flat-square&logo=anthropic&logoColor=black) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white) ![Deepseek](https://img.shields.io/badge/-Deepseek-6187ff?style=flat-square&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/-Qwen-6136d4?style=flat-square&logo=qwen&logoColor=white) ![Grok](https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=x&logoColor=white) ![Perplexity](https://img.shields.io/badge/-Perplexity-15c3d2?style=flat-square&logo=perplexity&logoColor=white) ![OpenRouter](https://img.shields.io/badge/-OpenRouter-8a2be2?style=flat-square&logo=openrouter&logoColor=white) ![Lovable](https://img.shields.io/badge/-Lovable-ff4b4b?style=flat-square&logo=lovable&logoColor=white) ![OpenCode](https://img.shields.io/badge/-OpenCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white) |
 | **Data & Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) |
@@ -29,7 +29,7 @@
 ---
 
 
-### 🐍 Contribuições
+### 🐍 Contributions
 <div align="center">
   <img src="https://raw.githubusercontent.com/luccapinto/luccapinto/output/github-snake-dark.svg" alt="Snake Game" />
 </div>
