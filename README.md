@@ -28,6 +28,12 @@
 
 ---
 
+### 🚀 Featured
+
+**[Atrium · people-agents](https://github.com/luccapinto/people-agents)**: governed AI agents for employee services. One conversational front door for HR where every tool is bound to the caller's identity, Postgres row-level security isolates each person's data, writes wait for a human click and every event lands in a hash-chained audit log. 14 agents, an Agent Studio with an evaluation gate and human approval, and a [live demo](https://luccapinto.github.io/people-agents/) that runs entirely in the browser.
+
+---
+
 
 ### 🐍 Contributions
 <div align="center">
