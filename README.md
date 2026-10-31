@@ -62,5 +62,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/luccapinto/luccapinto/output/github-snake-dark.svg" alt="Contributions" />
+  <img src="https://raw.githubusercontent.com/luccapinto/luccapinto/main/assets/github-snake-dark.svg" alt="Contributions" />
 </div>
